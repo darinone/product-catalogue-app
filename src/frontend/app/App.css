@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ProductComponentContainer {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 8px;
+    padding: 8px;
+    flex: 1;
+}
+
+@media (max-width: 1024px) {
+    .ProductComponentContainer {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .ProductComponentContainer {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .ProductComponentContainer {
+        grid-template-columns: 1fr;
+    }
+}
+
+.LoadMoreButtonStyle {
+    display: flex;
+    justify-content: center;
+    padding: 5px 8px;
+    width: 10%;
+    background-color: lightgrey;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    margin: 5px 0;
+}

@@ -1,0 +1,27 @@
+.FilterPanelComponent {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    font-weight: bold;
+    padding: 12px;
+    border-bottom: 2px solid black;
+}
+
+.Filter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.Filter.Selected {
+    background-color: lightgrey;
+}
+
+.Filter:hover {
+    background: lightgrey;
+}

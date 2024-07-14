@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "name": "Short skirt-pants",
+    "description": "Fabulous jeans",
+    "characteristics": {
+      "color": "White",
+      "size": "XS - XL",
+      "season": "Summer"
+    },
+    "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F96%2F9b%2F969be8ec259a812b59da4da172a658cde88df917.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "price": "17",
+    "category": "Fashion"
+  },
+  {
+    "id": 2,
+    "name": "Google Analytics",
+    "description": "Useful software",
+    "characteristics": {
+      "type": "Web/Mobile",
+      "operationSystem": "MacOS/Windows/Linux"
+    },
+    "imageUrl": "https://images.g2crowd.com/uploads/product/hd_favicon/d0b0bdbf701506973791782a843a408b/google-analytics.svg",
+    "price": "100",
+    "category": "Software"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 12",
+    "description": "Amazing phone",
+    "characteristics": {
+      "cpu": "128 GB",
+      "processor": "Apple A14 Bionic 64-Bit",
+      "color": "White"
+    },
+    "imageUrl": "https://api.technopolis.bg/medias/576744.jpg-Product-details-main?context=bWFzdGVyfHJvb3R8NDk0MDN8aW1hZ2UvanBlZ3xhRFl4TDJoaE5TOHlOekkxTmpjM09UTTBNVGcxTkM1cWNHY3w3MWVmMTRjYjY5NTkyZDM1M2VjNTFkMGU2MGNmMzk2OGFhNjAyZWJhY2NmYWY3ODgxZjJhYmVhMzkxNmMxZjkw",
+    "price": "600",
+    "category": "Mobile devices"
+  },
+  {
+    "id": 4,
+    "name": "Sleengbacks",
+    "description": "Fabulous jeans",
+    "characteristics": {
+      "color": "Burgundy",
+      "size": "35 - 41",
+      "season": "Spring/Summer"
+    },
+    "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ffa%2F58%2Ffa58358ebe7cccecefb277323da7c9a874d97f9a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "price": "20",
+    "category": "Fashion"
+  },
+  {
+    "id": 5,
+    "name": "LinkedIn Sales Navigator",
+    "description": "Useful software",
+    "characteristics": {
+      "type": "Web/Mobile",
+      "operationSystem": "MacOS/Windows/Linux"
+    },
+    "imageUrl": "https://images.g2crowd.com/uploads/product/hd_favicon/1487565470/linkedin-sales-navigator.svg",
+    "price": "100",
+    "category": "Software"
+  },
+  {
+    "id": 6,
+    "name": "iPhone 13",
+    "description": "Amazing phone",
+    "characteristics": {
+      "cpu": "128 GB",
+      "processor": "Apple A15 Bionic",
+      "color": "Pink"
+    },
+    "imageUrl": "https://api.technopolis.bg/medias/576986.jpg-Product-details-main?context=bWFzdGVyfHJvb3R8NDgzNzl8aW1hZ2UvanBlZ3xhR00zTDJnM055OHlOamsyTnpVM05UQXdNekUyTmk1cWNHY3w3NzFlODA1NjFhODMyMmEyZTk4N2U3ZTAxYjFjZmQ1YzIwNjc4MTIzYjIzMjQ1ODMwYjE3M2IwMzhkNzI3ZjRm",
+    "price": "650",
+    "category": "Mobile devices"
+  },
+  {
+    "id": 7,
+    "name": "Knitted dress",
+    "description": "Fabulous jeans",
+    "characteristics": {
+      "color": "White",
+      "size": "XS - XL",
+      "season": "Summer"
+    },
+    "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F15%2F20%2F15202010fadd909a16bc07caf8a0464330676294.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "price": "40",
+    "category": "Fashion"
+  },
+  {
+    "id": 8,
+    "name": "Gold Earrings",
+    "description": "Fabulous jeans",
+    "characteristics": {
+      "color": "Gold",
+      "size": "Small",
+      "season": "Any"
+    },
+    "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc3%2Fc5%2Fc3c54fd2603cf2cfb97b0a2c1ed54a986413b5a3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "price": "5",
+    "category": "Fashion"
+  },
+  {
+    "id": 9,
+    "name": "iPhone 15 Pro",
+    "description": "Amazing phone",
+    "characteristics": {
+      "cpu": "128 GB",
+      "processor": "Apple A17 Pro",
+      "color": "Blue"
+    },
+    "imageUrl": "https://api.technopolis.bg/medias/Product-details-main-502103.jpg?context=bWFzdGVyfHJvb3R8MTg2OTk2fGltYWdlL2pwZWd8YURZNEwyZ3pZaTh6TkRFME1UUTRPVEk1T1RRNE5pOVFjbTlrZFdOMExXUmxkR0ZwYkhNdGJXRnBibDgxTURJeE1ETXVhbkJufGY4NzVkY2RmZGE0OGEwMGM2NzVhNWZhZGY5Y2JmNTc1NmQ5YzM1Y2VlOTkzMjRlOWRiY2FmNWVlYjc5ZDIyMDc",
+    "price": "1200",
+    "category": "Mobile devices"
+  },
+  {
+    "id": 10,
+    "name": "TikTok Ads",
+    "description": "Useful software",
+    "characteristics": {
+      "type": "Web/Mobile",
+      "operationSystem": "MacOS/Windows/Linux"
+    },
+    "imageUrl": "https://images.g2crowd.com/uploads/product/image/detail/detail_e642772ccd211193d80b0ad74aea1c55/tiktok-ads.png",
+    "price": "100",
+    "category": "Software"
+  },
+  {
+    "id": 11,
+    "name": "Knitted Vest",
+    "description": "Fabulous jeans",
+    "characteristics": {
+      "color": "White",
+      "size": "XXS - XXL",
+      "season": "Any"
+    },
+    "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff3%2Fdb%2Ff3dbead3b7e003d5cbcb6d885544c33eb55450a8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "price": "20",
+    "category": "Fashion"
+  },
+  {
+    "id": 12,
+    "name": "iPhone 15",
+    "description": "Amazing phone",
+    "characteristics": {
+      "cpu": "512 GB",
+      "processor": "Apple A16 Bionic",
+      "color": "Yellow"
+    },
+    "imageUrl": "https://api.technopolis.bg/medias/Product-details-main-502084.jpg?context=bWFzdGVyfHJvb3R8MTU1ODcyfGltYWdlL2pwZWd8YUdZM0wyZzBZeTh6TkRFeU9ERTROVFE1TVRRNE5pOVFjbTlrZFdOMExXUmxkR0ZwYkhNdGJXRnBibDgxTURJd09EUXVhbkJufGNiNGYzNTkzMjE1YWZjNDhiNjdhYWU5ZTU5MjcxZmQ3ZTQ3YWE4OTBlYjIwMWRhYWFmZGYwZWRmMjk5OTFjZTY",
+    "price": "1300",
+    "category": "Mobile devices"
+  },
+  {
+    "id": 13,
+    "name": "Notion",
+    "description": "Useful software",
+    "characteristics": {
+      "type": "Web/Mobile",
+      "operationSystem": "MacOS/Windows/Linux"
+    },
+    "imageUrl": "https://images.g2crowd.com/uploads/product/hd_favicon/43bf53de40136acd6c0aed67eb459fcd/notion.svg",
+    "price": "100",
+    "category": "Software"
+  },
+  {
+    "id": 14,
+    "name": "Knitted Vest",
+    "description": "Fabulous jeans",
+    "characteristics": {
+      "color": "White",
+      "size": "XS - XL",
+      "season": "Summer"
+    },
+    "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Feb%2Fbf%2Febbf0e7d56b880f27046d6953fe3e7c6defa1e2e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "price": "50",
+    "category": "Fashion"
+  },
+  {
+    "id": 15,
+    "name": "iPhone 15 Plus",
+    "description": "Amazing phone",
+    "characteristics": {
+      "cpu": "512 GB",
+      "processor": "Apple A16 Bionic",
+      "color": "Green"
+    },
+    "imageUrl": "https://api.technopolis.bg/medias/Product-details-main-502100.jpg?context=bWFzdGVyfHJvb3R8MTc4MTkwfGltYWdlL2pwZWd8YURFM0wyaGhOaTh6TkRFME1UUTRPREl4T0RFME1pOVFjbTlrZFdOMExXUmxkR0ZwYkhNdGJXRnBibDgxTURJeE1EQXVhbkJufGU1NThkOTdmNDhmYWU0Mjc4YzRlYjljNjNiYzVjZTYwODNkMDViMzA1ZTI0YzgwOTY4NWEyZjE2NjMxYzlmY2Q",
+    "price": "1500",
+    "category": "Mobile devices"
+  },
+  {
+    "id": 16,
+    "name": "Jira",
+    "description": "Useful software",
+    "characteristics": {
+      "type": "Web/Mobile",
+      "operationSystem": "MacOS/Windows/Linux"
+    },
+    "imageUrl": "https://images.g2crowd.com/uploads/product/hd_favicon/1547822411/jira.svg",
+    "price": "100",
+    "category": "Software"
+  },
+  {
+    "id": 17,
+    "name": "Miro",
+    "description": "Useful software",
+    "characteristics": {
+      "type": "Web/Mobile",
+      "operationSystem": "MacOS/Windows/Linux"
+    },
+    "imageUrl": "https://images.g2crowd.com/uploads/product/hd_favicon/f43d71a5c7b1abb1b7d3dfc8d3668f9b/miro.svg",
+    "price": "100",
+    "category": "Software"
+  },
+  {
+    "id": 18,
+    "name": "Knitted Blouse",
+    "description": "Fabulous jeans",
+    "characteristics": {
+      "color": "Burgundy",
+      "size": "XXS - XXL",
+      "season": "Any"
+    },
+    "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F20%2F44%2F20444184ffada8484c8564c152218d43ca5c8980.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_tops_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "price": "15",
+    "category": "Fashion"
+  },
+  {
+    "id": 19,
+    "name": "Knitted Skirt",
+    "description": "Fabulous jeans",
+    "characteristics": {
+      "color": "Burgundy",
+      "size": "XXS - XL",
+      "season": "Spring"
+    },
+    "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6f%2F88%2F6f88e3a278811b52accbf797a43ca7e43b627ef8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_skirts_highwaisted%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "price": "27",
+    "category": "Fashion"
+  },
+  {
+    "id": 20,
+    "name": "iPhone SE 3Gen",
+    "description": "Amazing phone",
+    "characteristics": {
+      "cpu": "64 GB",
+      "processor": "Apple A15 Bionic",
+      "color": "Red"
+    },
+    "imageUrl": "https://api.technopolis.bg/medias/577105.jpg-Product-details-main?context=bWFzdGVyfHJvb3R8NTY4NTd8aW1hZ2UvanBlZ3xhREJpTDJnMU1DOHlOekkxTmpnd05UQXpNVGsyTmk1cWNHY3xkYjViYmMyNWM5NTA3NWYyZTU5YTM2NjViM2U5Mjk3ZWU3MjBiZmU1NTJhMGU3N2RkN2UyYmVmMzljZmIzMDlj",
+    "price": "400",
+    "category": "Mobile devices"
+  },
+  {
+    "id": 21,
+    "name": "iPhone SE 3Gen",
+    "description": "Amazing phone",
+    "characteristics": {
+      "cpu": "64 GB",
+      "processor": "Apple A15 Bionic",
+      "color": "White"
+    },
+    "imageUrl": "https://api.technopolis.bg/medias/577107.jpg-Product-details-main?context=bWFzdGVyfHJvb3R8NDY3NTN8aW1hZ2UvanBlZ3xhRGN3TDJnelpDOHlOekkxTmpnd05UYzFNamcyTWk1cWNHY3w5M2Y3MjQ5ZDY2NGIyNmE3MmZjMmNiZGMyMDQ1NDNlNDk5ZmU4MDJiNjMyZGM4NDUzNDkzNzZlMTViYjJjMzc5",
+    "price": "400",
+    "category": "Mobile devices"
+  },
+  {
+    "id": 22,
+    "name": "iPhone SE 3Gen",
+    "description": "Amazing phone",
+    "characteristics": {
+      "cpu": "64 GB",
+      "processor": "Apple A15 Bionic",
+      "color": "Black"
+    },
+    "imageUrl": "https://api.technopolis.bg/medias/577106.jpg-Product-details-main?context=bWFzdGVyfHJvb3R8NTY1NTh8aW1hZ2UvanBlZ3xhR00wTDJnNVlTOHpNVEk0T0RZMk9EZzRNRGt5Tmk1cWNHY3w3NzAzYzZkM2IzMTcyOTE3MGUwZTFkOTZjNGZjMDgwMDBiODhiOWU3ODI3ZjU5ZmJlNjVkMTE4MzNiOGJlNDlh",
+    "price": "400",
+    "category": "Mobile devices"
+  },
+  {
+    "id": 23,
+    "name": "Confluence",
+    "description": "Useful software",
+    "characteristics": {
+      "type": "Web/Mobile",
+      "operationSystem": "MacOS/Windows/Linux"
+    },
+    "imageUrl": "https://images.g2crowd.com/uploads/product/hd_favicon/1505148164/confluence.png",
+    "price": "100",
+    "category": "Software"
+  },
+  {
+    "id": 24,
+    "name": "Jeans shorts",
+    "description": "Fabulous jeans",
+    "characteristics": {
+      "color": "Dark Blue",
+      "size": "34 - 46",
+      "season": "Spring/Summer"
+    },
+    "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F79%2F35%2F793574f39691d0ff935f3e26fa6ed8195fe3084e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "price": "60",
+    "category": "Fashion"
+  },
+  {
+    "id": 25,
+    "name": "iPhone 14",
+    "description": "Amazing phone",
+    "characteristics": {
+      "cpu": "128 GB",
+      "processor": "Apple A15 Bionic",
+      "color": "Blue"
+    },
+    "imageUrl": "https://api.technopolis.bg/medias/577161.jpg-Product-details-main?context=bWFzdGVyfHJvb3R8NTc0MjR8aW1hZ2UvanBlZ3xhRFJrTDJneFpTOHlPRE0xTXprek1EZ3lNVFkyTWk1cWNHY3xjM2M0MWU1MGUwZWNhOGJmNDQ5MjlkNWQ4NDVkNGUyY2I0ZTViZTE5YzFlZjA1YWNmZTdiN2YyZjdjMmQxYmEy",
+    "price": "800",
+    "category": "Mobile devices"
+  }
+]

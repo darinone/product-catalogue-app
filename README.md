@@ -1,2 +1,20 @@
-# product-catalogue-app
-This is a test code task.
+# Getting Started with Product Catalogue App
+
+The project is a Product Catalogue, with possibility to filter products by category and also to check the detailed information of each product.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
